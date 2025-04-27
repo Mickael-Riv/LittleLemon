@@ -1,3 +1,3 @@
 **Coursera exercise**
 
-WIP
+project for the backend course
